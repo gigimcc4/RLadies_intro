@@ -10,11 +10,12 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
-## R programing
+## R programming {.centered}
+What is R?
+  ![](data/rgraphic.png){width=800px}
 
 
-##IDE Panes
-
+## IDE Panes
 IDE Panes
 
 - Console (& Terminal)
@@ -96,16 +97,3 @@ IDE Panes
 <span style="color:red"><font size="10">TASK 2</font></span>
 
 </div>
-
-##
-
-```{r cars, echo = TRUE}
-summary(cars)
-```
-
-## Slide with Plot
-
-```{r pressure}
-plot(pressure)
-```
-
